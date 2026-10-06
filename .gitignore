@@ -1,0 +1,21 @@
+# .NET / C#
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.Development.json
+
+# Node / React
+node_modules/
+dist/
+build/
+.npm
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
